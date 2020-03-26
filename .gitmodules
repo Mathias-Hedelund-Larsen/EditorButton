@@ -1,0 +1,6 @@
+[submodule "GitSubmodules/EditorObjectExtension"]
+	path = GitSubmodules/EditorObjectExtension
+	url = https://github.com/Mathias-Hedelund-Larsen/EditorObjectExtension.git
+[submodule "GitSubmodules/EditorOnlyFieldsUnity"]
+	path = GitSubmodules/EditorOnlyFieldsUnity
+	url = https://github.com/Mathias-Hedelund-Larsen/EditorOnlyFieldsUnity.git
